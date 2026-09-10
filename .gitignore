@@ -17,4 +17,5 @@ research/sentence_bank.csv
 research/coded_mistakes.csv
 research/unmatched.csv
 research/confusion_pairs.json
+research/topic_tags.csv
 research/mistake_ranking.xlsx

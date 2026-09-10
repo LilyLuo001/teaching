@@ -143,8 +143,42 @@ def main():
             c.alignment = WRAP
     style(ws5, [7, 44, 13, 15, 12, 16, 7, 40, 95])
 
-    # ---------- Sheet 6: method -------------------------------------------
-    ws6 = wb.create_sheet("6. Method and Limitations")
+    # ---------- Sheet 6/7: topic views -------------------------------------
+    tag_path = ROOT / "research" / "topic_tags.csv"
+    tags = [r for r in csv.DictReader(open(tag_path, encoding="utf-8")) if r["topic"]]
+
+    by_topic = defaultdict(list)
+    for r in tags:
+        by_topic[(r["topic"], r["section"])].append(r)
+    topic_rank = sorted(by_topic.items(), key=lambda kv: -len(kv[1]))
+
+    ws7 = wb.create_sheet("6. Topic Priority")
+    ws7.append(["Rank", "Topic", "Section", "Statements", "Named in sentence",
+                "Inferred from page", "Distinct reports", "Boards",
+                "Mistake #1", "Mistake #2", "Mistake #3"])
+    for i, ((topic, sect), rs) in enumerate(topic_rank, 1):
+        mc = Counter(r["mistake"] for r in rs).most_common(3)
+        mc += [("", 0)] * (3 - len(mc))
+        ws7.append([i, topic, sect, len(rs),
+                    sum(1 for r in rs if r["evidence"] == "sentence"),
+                    sum(1 for r in rs if r["evidence"] == "page"),
+                    len({r["source"] for r in rs}),
+                    len({r["board"] for r in rs}),
+                    *[f"{m} ({n})" if m else "" for m, n in mc]])
+    style(ws7, [6, 40, 9, 11, 17, 17, 15, 8, 46, 46, 46])
+
+    ws8 = wb.create_sheet("7. Mistake x Topic")
+    topics_ordered = [t for (t, _), _ in topic_rank]
+    ws8.append(["Mistake", "Family", "Total"] + topics_ordered)
+    mt = Counter((r["mistake"], r["topic"]) for r in tags)
+    mtot = Counter(r["mistake"] for r in tags)
+    for mistake, tot in mtot.most_common():
+        fam = next(r["family"] for r in tags if r["mistake"] == mistake)
+        ws8.append([mistake, fam, tot] + [mt.get((mistake, t), 0) for t in topics_ordered])
+    style(ws8, [46, 13, 8] + [15] * len(topics_ordered))
+
+    # ---------- Sheet 8: method -------------------------------------------
+    ws6 = wb.create_sheet("8. Method and Limitations")
     nb = Counter(r["board"] for r in bank)
     lines = [
         ["HOW THIS WORKBOOK WAS BUILT", ""],
@@ -187,6 +221,13 @@ def main():
          "All classification rules are plain regexes in scripts/code_mistakes.py, and the "
          "confusion-pair rules in scripts/extract_confusions.py. Both can be inspected, "
          "challenged, or re-run."],
+        ["Topic tagging has two tiers",
+         "Sheets 6 and 7 tag each statement with a syllabus topic. Where the topic is named "
+         "in the criticism sentence itself the tag is strong; where it is not, the topic is "
+         "inferred from the rest of that page of the report, which is reasonable because "
+         "examiner reports run question by question but is weaker evidence. Both columns are "
+         "shown separately in sheet 6 so the inference can be discounted. Statements with "
+         "neither signal are left untagged rather than guessed."],
         ["Confusion pairs are symmetric",
          "Sheet 2 counts 'X confused with Y' and 'Y confused with X' as the same finding, so "
          "each pair is stored alphabetically. Mentions are low because examiners rarely name "
@@ -224,6 +265,17 @@ def main():
             w.writerow([a, b, len(ps),
                         "; ".join(sorted({BOARD_NAME.get(x["board"], x["board"]) for x in ps})),
                         "; ".join(sorted({x["series"] for x in ps}))])
+    with open(pub / "topic_priority_counts.csv", "w", newline="", encoding="utf-8") as fh:
+        w = csv.writer(fh)
+        w.writerow(["rank", "topic", "section", "statements", "named_in_sentence",
+                    "inferred_from_page", "distinct_reports", "boards", "top_mistake"])
+        for i, ((topic, sect), rs) in enumerate(topic_rank, 1):
+            top = Counter(r["mistake"] for r in rs).most_common(1)
+            w.writerow([i, topic, sect, len(rs),
+                        sum(1 for r in rs if r["evidence"] == "sentence"),
+                        sum(1 for r in rs if r["evidence"] == "page"),
+                        len({r["source"] for r in rs}), len({r["board"] for r in rs}),
+                        f"{top[0][0]} ({top[0][1]})" if top else ""])
     with open(pub / "ap_scoring_statistics.csv", "w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=["year", "subject", "set", "question",
                                            "mean", "sd", "possible", "pct"])
