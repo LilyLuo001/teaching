@@ -1,0 +1,33 @@
+rank,mistake,family,examiner_statements,distinct_reports,boards,board_breakdown,years_spanned
+1,Two concepts confused with each other,Knowledge,292,62,5,CAIE 9708:163; Edexcel 9EC0:82; AQA 7136:27; OCR H460:18; AP Macro/Micro:2,2015-2025
+2,Assertion without explanation / undeveloped chain of reasoning,Reasoning,207,54,5,CAIE 9708:137; AP Macro/Micro:42; OCR H460:11; Edexcel 9EC0:10; AQA 7136:7,2015-2025
+3,Did not answer the question actually set,Focus,76,28,4,CAIE 9708:68; Edexcel 9EC0:4; OCR H460:3; AQA 7136:1,2015-2025
+4,Answer generic / not applied to the given context,Application,52,31,4,Edexcel 9EC0:36; CAIE 9708:11; OCR H460:4; AQA 7136:1,2017-2025
+5,Evaluation absent or minimal,Evaluation,41,29,3,CAIE 9708:20; Edexcel 9EC0:20; AQA 7136:1,2015-2025
+6,Key concept not recognised or not grasped at all,Knowledge,41,24,4,CAIE 9708:32; Edexcel 9EC0:4; OCR H460:3; AQA 7136:2,2015-2025
+7,Multiple-choice distractor chosen over correct option,MCQ,40,18,2,CAIE 9708:37; AQA 7136:3,2016-2024
+8,Diagram drawn but mislabelled / unlabelled,Diagram,25,20,3,CAIE 9708:22; OCR H460:2; AQA 7136:1,2015-2023
+9,Definition / terminology imprecise or vague,Knowledge,24,17,3,CAIE 9708:16; OCR H460:5; Edexcel 9EC0:3,2017-2024
+10,Evaluation superficial / generic / unconvincing,Evaluation,22,15,3,Edexcel 9EC0:10; CAIE 9708:8; AQA 7136:4,2017-2024
+11,Rote or pre-learned answer reproduced,Technique,21,16,2,CAIE 9708:16; Edexcel 9EC0:5,2015-2025
+12,Related terms not distinguished from one another,Knowledge,20,15,4,CAIE 9708:15; AQA 7136:2; OCR H460:2; Edexcel 9EC0:1,2016-2025
+13,Incorrect statement of a standard relationship,Knowledge,18,11,3,CAIE 9708:14; AP Macro/Micro:2; Edexcel 9EC0:2,2018-2025
+14,Irrelevant material included beyond the question's scope,Focus,18,15,3,CAIE 9708:16; Edexcel 9EC0:1; OCR H460:1,2016-2025
+15,Calculation error / formula misuse,Quantitative,17,15,5,CAIE 9708:5; Edexcel 9EC0:5; AP Macro/Micro:3; AQA 7136:3; OCR H460:1,2016-2025
+16,Conclusion missing or unsupported by the analysis,Evaluation,17,12,3,CAIE 9708:11; OCR H460:5; AQA 7136:1,2015-2024
+17,Description instead of analysis,Reasoning,15,11,4,CAIE 9708:10; AQA 7136:2; OCR H460:2; Edexcel 9EC0:1,2018-2023
+18,Not all parts / aspects of the question covered,Technique,15,12,3,CAIE 9708:11; AQA 7136:3; OCR H460:1,2016-2023
+19,Question part left blank or barely attempted,Technique,14,10,3,CAIE 9708:8; Edexcel 9EC0:4; AQA 7136:2,2017-2024
+20,Diagram omitted where required,Diagram,14,9,3,CAIE 9708:12; Edexcel 9EC0:1; OCR H460:1,2015-2024
+21,One-sided answer / only one view considered,Evaluation,13,11,3,CAIE 9708:9; AQA 7136:3; Edexcel 9EC0:1,2018-2023
+22,Mechanism not linked to outcome,Reasoning,11,8,4,CAIE 9708:5; AP Macro/Micro:2; Edexcel 9EC0:2; OCR H460:2,2015-2025
+23,"Units, % sign, rounding or decimal places lost",Quantitative,10,8,3,AQA 7136:6; CAIE 9708:2; Edexcel 9EC0:2,2017-2023
+24,Answer length mismanaged for the mark tariff,Technique,10,9,4,CAIE 9708:5; AQA 7136:2; Edexcel 9EC0:2; OCR H460:1,2016-2025
+25,"Command word ignored (cause vs impact, advantage vs problem)",Focus,9,9,4,CAIE 9708:4; Edexcel 9EC0:3; AQA 7136:1; OCR H460:1,2017-2024
+26,Curve/area positioned or shaded incorrectly,Diagram,8,6,2,AP Macro/Micro:6; CAIE 9708:2,2019-2025
+27,Data misread from table or figure,Quantitative,7,6,3,AQA 7136:4; Edexcel 9EC0:2; OCR H460:1,2017-2023
+28,Wrong curve shifted / shift vs movement along,Diagram,6,6,2,CAIE 9708:4; AP Macro/Micro:2,2017-2024
+29,Stimulus material / extract data not used,Application,6,5,4,OCR H460:3; AQA 7136:1; CAIE 9708:1; Edexcel 9EC0:1,2022-2024
+30,Theory recalled but misapplied,Knowledge,4,4,3,CAIE 9708:2; AQA 7136:1; Edexcel 9EC0:1,2018-2025
+31,Diagram drawn but not explained / not referred to,Diagram,3,3,2,CAIE 9708:2; OCR H460:1,2018-2022
+32,Wrong diagram type chosen,Diagram,3,3,2,OCR H460:2; CAIE 9708:1,2016-2024

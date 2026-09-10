@@ -1,0 +1,20 @@
+# Exam-board copyright material: kept locally, never committed.
+# Past papers, mark schemes, examiner reports and specifications remain the
+# property of AQA / OCR / Pearson / Cambridge International / College Board.
+sources/
+*.pdf
+*.zip
+.DS_Store
+
+# Derived artefacts that still carry substantial verbatim examiner prose.
+# This repo is public, so only counts and original analysis are committed;
+# anything holding the boards' own wording stays local. Regenerate with:
+#   python3 scripts/extract_text.py && python3 scripts/build_sentence_bank.py
+#   python3 scripts/code_mistakes.py && python3 scripts/extract_confusions.py
+#   python3 scripts/build_excel.py
+research/corpus/
+research/sentence_bank.csv
+research/coded_mistakes.csv
+research/unmatched.csv
+research/confusion_pairs.json
+research/mistake_ranking.xlsx
