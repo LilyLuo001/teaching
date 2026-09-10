@@ -61,6 +61,29 @@ reconstructed by filtering sheet 5.
   were confused" without naming both concepts. Sheet 2 catches only the cases where
   both are named, so low counts there mean low reporting, not low incidence.
 
+## Source coverage, and why it stops where it does
+
+Held locally: 831 PDFs — 303 CAIE question papers, 301 CAIE mark schemes, 24 CAIE
+examiner reports (2015–2025), plus AP, Edexcel, AQA and OCR material, and the current
+specification for all five boards.
+
+Nine CAIE examiner series could not be obtained, and the reasons are worth recording so
+nobody re-searches for them:
+
+| Series | Why it is missing |
+|---|---|
+| m15 | The March series for 9708 did not begin until 2016 — this report never existed |
+| s20, s21 | June exams were cancelled or heavily disrupted by Covid in these years |
+| w18 | Not on any freely available mirror |
+| m24, s24, w24, s25, w25 | Recent series; Cambridge restricts these to registered centres |
+
+The recent gap closes with a Cambridge centre login, which is the clean long-term route
+in any case. The Covid-year gap does not close, because the assessments did not happen.
+
+This does not weaken the ranking. The corpus still spans 2015–2025 with 92 reports
+across five boards, and the two dominant mistakes appear in every year and on every
+board — so no single missing series changes the ordering.
+
 ## A note on what is committed
 
 This repository is public. The exam boards' own material — past papers, mark schemes,
