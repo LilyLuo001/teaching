@@ -9,6 +9,11 @@ can be checked against the source report.
 error. They are not percentages of students — boards do not publish those. See
 `research/README.md`.
 
+**Which syllabus sections each module covers:** see `curriculum/syllabus_map.md`,
+generated from the official specifications. Every Tier-1 and Tier-3 module lands on all
+four UK boards, so each video can name the exact section a viewer is revising — and the
+two skill modules apply everywhere at once, which is what makes them evergreen.
+
 ## The headline finding that shapes the whole channel
 
 Two mistakes dominate every board and every year:

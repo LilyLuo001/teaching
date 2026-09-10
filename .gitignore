@@ -5,6 +5,8 @@ sources/
 *.pdf
 *.zip
 .DS_Store
+__pycache__/
+*.pyc
 
 # Derived artefacts that still carry substantial verbatim examiner prose.
 # This repo is public, so only counts and original analysis are committed;
