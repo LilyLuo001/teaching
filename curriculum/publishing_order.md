@@ -99,9 +99,12 @@ Publish these steadily rather than in a block, so the channel keeps a mix.
 - **Time the E and D units to exam season.** Technique content peaks in the four
   weeks before a sitting. If you are filming out of season, film them anyway and
   schedule them.
-- **Every unit ends in a diagnostic CTA.** A1, C1 and D1 already have working
-  diagnostics (`diagnostics/01`, `03`, `04`); B units point at `diagnostics/02`.
-  The remaining clusters need one each before their first unit ships.
+- **Every unit ends in a diagnostic CTA.** A1, C1 and D1 point at `diagnostics/01`,
+  `03`, `04`; B units at `diagnostics/02`; F1, F2 and F3 at `diagnostics/05`.
+  The E, D and G clusters still need one each before their first unit ships.
+- **The CTA is load-bearing, not decoration.** Each video deliberately teaches two
+  常错考点 and hooks the remaining two into the quiz, so the quiz is where the rest
+  of the topic lives. It has to exist before the video ships, not after.
 
 ## If you would rather order by evidence strength
 
