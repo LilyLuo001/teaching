@@ -41,8 +41,8 @@ identical options, identical order — and published how students did both times
 
 | Sitting | Paper | Q | Correct answer | % correct | % who chose B |
 |---|---|---|---|---|---|
-| Nov 2016 | 9708/32 | 13 | **A** | **25%** | **46%** |
-| Mar 2020 | 9708/32 | 11 | **A** | **37%** | **39%** |
+| Oct/Nov 2016 | **9708/32/O/N/16** | 13 | **A** | **25%** | **46%** |
+| Feb/Mar 2020 | **9708/32/F/M/20** | 11 | **A** | **37%** | **39%** |
 
 In 2016, **almost twice as many students chose B as chose the right answer.** In
 2020 the question was set again and B *still* beat A.
@@ -52,7 +52,7 @@ Option B is the monopoly answer. Cambridge's own comment on the 2016 paper:
 > "Those who chose option B may have been confusing monopoly and monopolistic
 > competition. In monopolistic competition in the long run normal profits are
 > earned."
-> — CAIE 9708, Nov 2016, Paper 32, p.19
+> — CAIE 9708/32/O/N/16, Principal Examiner Report, p.19
 
 That is the entire video in one data point, and none of it is estimated.
 
@@ -69,7 +69,7 @@ and Cambridge explains each one in the reports:
 | **C** | More firms than perfect competition — both have many, so this does not separate them | 考点 4 | hook → quiz |
 | **D** | Demand curve more elastic than perfect competition — it is *less* | 考点 3 | hook → quiz |
 
-Cambridge on C and D, Mar 2020, Paper 32, p.6:
+Cambridge on C and D — 9708/32/F/M/20 report, p.6:
 
 > "In the long run in monopolistic competition and in perfect competition there
 > will be normal profit (option B), and there will be a large number of firms
@@ -80,10 +80,10 @@ Cambridge on C and D, Mar 2020, Paper 32, p.6:
 
 | Board | Series | Where | Statement |
 |---|---|---|---|
-| CAIE 9708 | Jun 2022 | 9708/31, Q9, p.17 | Long-run: "the average revenue will be equal to the average cost and thus the price will not be greater than the average cost". **46% correct.** |
-| AQA 7136 | Jun 2023 | Paper 1, p.6 | "students confused monopolistic competition with monopoly, which meant very little, if anything, could be rewarded" |
-| OCR H460 | Summer 2024 | H460/01, p.11 | Prints a box headed **Misconception**: "Monopolistic competition is not the same as Monopoly competition." |
-| Edexcel 9EC0 | 2021 | 9EC0/03, p.3 | "'Monopolistic' is allowed this year for first time as shorthand for monopolistic competition but monopoly/oligopoly is not allowed." |
+| CAIE 9708 | May/Jun 2022 | **9708/31/M/J/22**, Q9, report p.17 | Long-run: "the average revenue will be equal to the average cost and thus the price will not be greater than the average cost". **46% correct.** |
+| AQA 7136 | Jun 2023 | **7136/1**, report p.6 | "students confused monopolistic competition with monopoly, which meant very little, if anything, could be rewarded" |
+| OCR H460 | Jun 2024 | **H460/01**, report p.11 | Prints a box headed **Misconception**: "Monopolistic competition is not the same as Monopoly competition." |
+| Edexcel 9EC0 | Jun 2021 | **9EC0/03**, report p.3 | "'Monopolistic' is allowed this year for first time as shorthand for monopolistic competition but monopoly/oligopoly is not allowed." |
 
 Four boards. One confusion.
 
@@ -104,9 +104,9 @@ Four boards. One confusion.
 | 0:20–1:05 | **Definition**, with 考点 1 and 考点 2 planted and bolded on screen | |
 | 1:05–1:40 | **Side-by-side diagrams** — build both, show they look the same, then run time forward | ← *split point A* |
 | 1:40–2:10 | **常错考点 1** — long-run profit. Graph callout. | |
-| 2:10–2:45 | **原题 1** — CAIE 9708/31 Jun 2022 Q9, worked. | ← *split point B* |
+| 2:10–2:45 | **原题 1** — CAIE 9708/31/M/J/22 Q9, worked. | ← *split point B* |
 | 2:45–3:15 | **常错考点 2** — excess capacity. Graph callout. | |
-| 3:15–4:00 | **原题 2** — CAIE 9708/32 Nov 2016 Q13 & Mar 2020 Q11, worked. Reveal the 25% / 46%. | |
+| 3:15–4:00 | **原题 2** — CAIE 9708/32/O/N/16 Q13 & 9708/32/F/M/20 Q11, worked. Reveal the 25% / 46%. | |
 | 4:00–4:30 | **Hook + CTA** — 考点 3 and 4 still to come; quiz link | |
 
 *To split into two 2–3 min videos: cut at split point B. Video 1 = hook +
@@ -118,7 +118,7 @@ definition + diagrams + 考点1 + 原题1. Video 2 = short recap + 考点2 + 原
 
 ### [0:00] Hook
 
-Cambridge set this question in November 2016. Only **25%** of students got it
+Cambridge set this question in the October/November 2016 series — A Level Paper 3, the multiple-choice paper. Only **25%** of students got it
 right — and **46%** picked the same wrong answer.
 
 Then, four years later, they set *the exact same question again.* Same stem, same
@@ -199,7 +199,7 @@ Now Cambridge asks it like this.
 
 ### [2:10] 原题 1
 
-June 2022, A Level Paper 31, question 9. You're shown a monopolistically
+Cambridge, May/June 2022, A Level Paper 3 — paper code 9708/31, question 9. You're shown a monopolistically
 competitive firm in short-run equilibrium and asked what will **not** be true in
 the long run.
 
@@ -231,8 +231,8 @@ what separates monopolistic competition from perfect competition in the long run
 
 ### [3:15] 原题 2 — the question from the start
 
-Now back to where we started. November 2016, Paper 32, question 13 — set again in
-March 2020 as question 11.
+Now back to where we started. October/November 2016, paper code 9708/32, question 13
+— set again in February/March 2020, paper 9708/32, as question 11.
 
 *Comparing the long-run outcome in monopolistic competition with perfect
 competition, what would you most likely find?*
@@ -284,10 +284,10 @@ Text competes with narration — use it only where the ear misses something.
 | 0:55 | **MONOPOLISTIC COMPETITION** · `barriers: LOW` · **`long run: NORMAL PROFIT`** · **`→ EXCESS CAPACITY`** — same layout as the monopoly card so the contrast reads instantly. The two bold lines are 考点 1 and 2; they must look visually identical to the callouts at 1:40 and 2:45. |
 | 1:30 | `two different long runs, same short run` |
 | 1:45 | `常错考点 1 — 长期利润 / LONG-RUN PROFIT` |
-| 2:20 | `CAIE 9708/31 · Jun 2022 · Q9` — small, bottom corner, held for the whole worked question. Caption below: *question rebuilt; original cited* |
+| 2:20 | `CAIE 9708/31/M/J/22 · Q9 · 46% correct` — small, bottom corner, held for the whole worked question. Caption below: *question rebuilt; original cited* |
 | 2:35 | `46% correct` |
 | 2:50 | `常错考点 2 — 超额产能 / EXCESS CAPACITY` |
-| 3:20 | `CAIE 9708/32 · Nov 2016 Q13 · Mar 2020 Q11` + *question rebuilt; original cited* |
+| 3:20 | `CAIE 9708/32/O/N/16 · Q13 · 25% correct` then `9708/32/F/M/20 · Q11 · 37% correct` + *question rebuilt; original cited* |
 | 3:45 | `A ✓` · `B ✗ 46% / 39%` — hold |
 | 4:05 | `常错考点 3 · 4 →` with C and D greyed in from the option list |
 
@@ -394,7 +394,7 @@ pairing.
 **Description.**
 
 ```
-Cambridge set this question in Nov 2016 — 25% of students got it right, and 46%
+Cambridge set this question in October/November 2016 (9708/32/O/N/16, Q13) — 25% of students got it right, and 46%
 chose the same wrong answer. Four years later they set the identical question
 again, and that wrong answer still beat the correct one.
 
@@ -406,9 +406,9 @@ profit, and excess capacity — and then works both past-paper questions.
 0:20  Definition: the two things that actually matter
 1:05  The diagrams side by side (and why they look identical)
 1:40  常错考点 1 — long-run profit
-2:10  Past paper: CAIE 9708/31 Jun 2022 Q9
+2:10  Past paper: CAIE 9708/31/M/J/22 Q9
 2:45  常错考点 2 — excess capacity
-3:15  Past paper: CAIE 9708/32 Nov 2016 Q13 / Mar 2020 Q11
+3:15  Past paper: CAIE 9708/32/O/N/16 Q13 / 9708/32/F/M/20 Q11
 4:00  考点 3 & 4 + free quiz
 
 Free 8-question market-structures quiz. Every wrong option is a documented

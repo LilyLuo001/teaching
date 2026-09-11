@@ -2,8 +2,8 @@
 
 **Module:** 专题 9 · **Units served:** F1, F2, F3 · **Items:** 8 · **Time:** 6 minutes
 **Targets:** the monopolistic-competition / monopoly confusion named by four boards —
-CAIE 9708 (Nov 2016, Jun 2022), AQA 7136 (Jun 2023), OCR H460 (Summer 2024), Edexcel
-9EC0 (2021).
+CAIE 9708 (9708/32/O/N/16 · 9708/31/M/J/22), AQA 7136/1 (Jun 2023), OCR H460/01
+(Jun 2024), Edexcel 9EC0/03 (Jun 2021).
 
 All items are **original**. No stem, option or wording is reproduced from any past
 paper or mark scheme. Where an item tests the same point as a published question, the
@@ -13,8 +13,8 @@ original is cited so a student can find it through their own school.
 
 ## Why this quiz exists
 
-Cambridge set one question on this topic in Nov 2016 and again, identically, in
-Mar 2020. Both times, more students chose the *monopoly* answer than the correct one
+Cambridge set one question on this topic in October/November 2016 (9708/32/O/N/16,
+Q13) and again, identically, in February/March 2020 (9708/32/F/M/20, Q11). Both times, more students chose the *monopoly* answer than the correct one
 (46% vs 25%, then 39% vs 37%). The four options on that question are four separate
 misconceptions, and this quiz is built around them:
 
@@ -44,8 +44,8 @@ year. Barriers to entry are low. What is the most likely position in the long ru
 firm's demand curve left until it is tangent to average cost. AR = AC is normal profit.
 
 - *B* — **考点 1, the core error.** Differentiation gives a downward-sloping demand
-  curve; it does not block entry. This is the assumption behind option B on CAIE
-  9708/32 Nov 2016 Q13, chosen by 46% of candidates.
+  curve; it does not block entry. This is the assumption behind option B on
+  **CAIE 9708/32/O/N/16 Q13**, chosen by 46% of candidates against 25% correct.
 - *C* — over-correction. Entry stops *at* normal profit, not past it; losses would
   cause exit and push the curve back.
 - *D* — P = MC requires a horizontal demand curve. Here demand slopes down, so price
@@ -67,8 +67,7 @@ the long run but a monopolistically competitive firm cannot?
 - *B* — **both** structures have downward-sloping demand. This is precisely why the
   short-run diagrams look alike, and why it cannot be the distinguishing feature.
 - *C* — true of a monopoly, but it is a *description* of the outcome, not the cause.
-  Being the sole seller is only sustainable *because* entry is blocked. CAIE
-  (9708/43, Nov 2023, Q3, p.28) notes that identifying the key characteristics of each
+  Being the sole seller is only sustainable *because* entry is blocked. **CAIE 9708/43/O/N/23**, Q3 (report p.28) notes that identifying the key characteristics of each
   structure, even correctly, only "would have ensured a lower Level 2 mark" — the marks
   come from the mechanism, not the list.
 - *D* — every profit-maximising firm in every structure does this. It separates
@@ -90,7 +89,7 @@ section. That is a geometric necessity, not a modelling choice.
 
 - *B* — **考点 2, the central error.** Minimum AC is the *perfect competition*
   outcome, where horizontal AR is tangent at the bottom. Importing it here erases
-  excess capacity, which is the answer to CAIE 9708/32 Nov 2016 Q13.
+  excess capacity, which is the answer to **CAIE 9708/32/O/N/16 Q13** (25% correct).
 - *C* — would require an upward-sloping AR.
 - *D* — MC cuts AC at its minimum, so this is option B restated. Choosing it usually
   means the tangency condition has been replaced by a memorised intersection rule.
@@ -110,7 +109,7 @@ theoretical gap, not a warehouse.
 
 - *B, C* — **the everyday-English reading.** "Capacity" in ordinary usage means
   physical plant, so students describe idle machines. The term here is defined purely
-  by the position of the tangency. CAIE (9708/32 Mar 2020, Q11) states it as "a
+  by the position of the tangency. **CAIE 9708/32/F/M/20 Q11** (37% correct) states it as "a
   difference between the ideal (optimum) output and the output actually attained".
 - *D* — confuses the firm with the industry.
 
@@ -132,8 +131,8 @@ that. Differentiation means a monopolistically competitive firm can raise price 
 keep some customers, so its curve slopes down and is therefore **less** elastic.
 
 - *B* — **考点 3, the error.** Reasoning from "many firms → lots of competition → very
-  elastic" and overshooting the horizontal benchmark. This is option D on CAIE 9708/32
-  Nov 2016 Q13; the examiner report states plainly: "The demand curve for the firm in
+  elastic" and overshooting the horizontal benchmark. This is option D on **CAIE 9708/32/O/N/16 Q13**;
+  the examiner report states plainly: "The demand curve for the firm in
   perfect competition is horizontal, but for monopolistic competition it is downward
   sloping so it is not more price-elastic."
 - *C* — treats firm numbers as the only determinant and ignores differentiation.
@@ -154,7 +153,7 @@ competition from perfect competition in the long run?
 **Correct: A.** Both models assume many firms and easy entry. Firm count is not the
 dividing line — excess capacity is.
 
-- *B* — **考点 4, the error.** This is option C on CAIE 9708/32 Nov 2016 Q13. The
+- *B* — **考点 4, the error.** This is option C on **CAIE 9708/32/O/N/16 Q13**. The
   examiner report states both structures have "a large number of firms", so the option
   cannot be what you'd "most likely find" as a difference.
 - *C* — differentiation is not a barrier to entry. A new entrant simply differentiates
@@ -179,7 +178,7 @@ demand curve leaves price above marginal cost (考点 3).
 
 - *D* — **the most revealing wrong answer.** It assumes zero supernormal profit implies
   efficiency. It does not: normal profit is about the *level* of profit, efficiency is
-  about the *position* of output. AQA 7136 set exactly this as an essay in Jun 2023 and
+  about the *position* of output. **AQA 7136/1, Jun 2023, Q9** set exactly this as an essay and
   reported that students who confused the two structures had "very little, if anything"
   that could be rewarded.
 - *B* — would require production at minimum AC.
@@ -203,8 +202,8 @@ profit. The "not making money beyond wages" detail is the giveaway: normal profi
 
 - *B* — **the headline confusion, in applied form.** Price-setting power exists in
   *every* structure except perfect competition; it does not make a firm a monopoly.
-  Edexcel 9EC0/03 (2021) records that students wrote "monopolistic" without
-  "competition", and states monopoly and oligopoly were "not allowed" as answers here.
+  **Edexcel 9EC0/03, Jun 2021, Q1(a)** records that students wrote "monopolistic"
+  without "competition", and states monopoly and oligopoly were "not allowed" as answers here.
 - *C* — forty independent firms is not a small number, and no firm's decisions depend
   on a rival's.
 - *D* — defensible enough that Edexcel accepted it with matching explanation, but
@@ -242,37 +241,25 @@ warmest lead on the list.
 
 ---
 
-## 试听课 offer — sketch only
+## 试听课 offer
 
-Per your note, this is a sketch to react to, not a built funnel.
+Full design, including the minute-by-minute trial structure and durations for all 27
+知识点, is in `curriculum/trial_lesson_design.md`.
 
-**Where it goes.** On the results page, *after* the diagnosis is shown — never before.
-The diagnosis must land as genuinely useful on its own, or the offer reads as the
-reason the quiz existed.
+**Where it goes on this quiz's result page.** After the diagnosis, never before. The
+diagnosis has to stand on its own as useful, or the offer reads as the reason the quiz
+existed.
 
-**What makes it convert.** The student has just been told, specifically, which
-misconception they hold. The natural next line is not "book a lesson" but "here is what
-we would do in 30 minutes about *this*":
+**What it says.** Not "book a lesson" — a specific promise built from their own result:
 
-> You scored 4/8, and five of your errors were 考点 2 — you are putting the long-run
-> point at minimum average cost. In a 30-minute trial we'd draw the tangency until you
-> can reproduce it from memory, then work two past-paper questions that hinge on it.
-> Bring your last mock.
+> You scored 4/8, and five of your errors were 考点 2: you're putting the long-run
+> point at minimum average cost. In 30 minutes we'd get you drawing the tangency from
+> memory, then work a real past-paper question that turns on it. Bring your last mock.
 
-That is a specific promise tied to their own result, which is a different offer from a
-generic free lesson.
+**Scope for this topic.** F1 is a 60-minute 知识点 — four 考点 and a diagram the
+student has to build themselves. A 30-minute trial covers 考点 1 and 2, the same two
+the video teaches. Say that at minute one, not minute twenty-eight.
 
-**Open decisions before this gets built** — flagging, not deciding:
-
-1. **Gate position.** Score ungated and diagnosis gated, per `diagnostics/README.md`?
-   Or everything ungated and gate only the extra practice set? The second converts
-   fewer but attracts less resentment.
-2. **Trial length and price.** 30 minutes free, or paid-but-cheap? Free maximises
-   volume; a nominal fee filters for intent and reduces no-shows.
-3. **Who teaches it.** If it is only you, the funnel's throughput is capped and that
-   cap should shape how hard the CTA pushes.
-4. **Booking mechanics.** Calendar tool, time zones (this audience spans China and the
-   UK), and what happens to a booking made at 2am before a mock.
-
-None of these block the video or the quiz. They do block the funnel, so they are worth
-settling before the quiz goes live rather than after.
+**Natural next step after the trial:** finish 考点 3 and 4, or bundle with F3
+(economies of scale vs diminishing returns) — both sit on the same cost curves, so the
+pair is 75 minutes rather than 105.
